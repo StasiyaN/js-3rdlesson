@@ -27,3 +27,6 @@ console.log(person);
 console.log(person2);
 person2.name = "Elvira";
 console.log(person);
+person.age = 20;
+console.log(person2);
+console.log(person);
